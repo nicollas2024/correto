@@ -9,6 +9,7 @@ h1{
 }
 
 .numero { 
-    text-decoration-thickness:initial;
+    text-decoration: underline;
+    text-decoration-thickness: auto;
     font-size:large;
 }
