@@ -1,8 +1,14 @@
 body {
     background-color:khaki;
 }
+
 h1{
     text-align:center;
 
     font-style:oblique;
+}
+
+.numero { 
+    text-decoration-thickness:initial;
+    font-size:large;
 }
