@@ -10,6 +10,6 @@ h1{
 .numero { 
     text-decoration: underline;
     text-decoration-thickness: auto;
-    font-size:large;
+    font-size:larger;
     color:darkblue;
 }
